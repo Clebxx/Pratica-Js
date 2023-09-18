@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(135, 206, 235);
+}
+
+header {
+    background-color: #26242c;
+    color: rgb(255, 255, 255);
+    padding: 1rem 0;
+}
+
+main {
+    padding: 2rem;
+}
+
+.cat-container {
+    margin: 6rem 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #000000;
+    border-radius: 16px;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
